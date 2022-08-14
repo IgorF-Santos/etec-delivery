@@ -6,6 +6,8 @@ import Home from '../screens/Home/index';
 import Pedidos from '../screens/pedidos/index';
 import Map from '../screens/map';
 
+
+// utilizamos essa função para podermos inicializar o Bottom Tab Navigator
 const Tab = createBottomTabNavigator();
 
 function TabNavigator(){
