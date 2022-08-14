@@ -10,6 +10,15 @@ import Header from '../../components/header';
 
 function Home() {   
   const navigation = useNavigation();
+
+  useEffect(
+    () =>
+      navigation.addListener(() => {
+        //Isso impede que o usuário navegue para a tela anterior utilizando os botões do aparelho
+        e.preventDefault();                  
+      }),
+    [navigation]
+  );
    
   return (
     <SafeAreaView style={HomeStyle.container}>
