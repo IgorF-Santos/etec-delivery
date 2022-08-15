@@ -15,11 +15,11 @@
 
 
 <div align="center">
-    <img src="./assets/app_images/Home.jpg" alt="Home Screen" width="600px" />
-    <img src="./assets/app_images/Maps.jpg" alt="Map Screen" width="600px" />
-    <img src="./assets/app_images/Order.jpg" alt="Order Screen" width="600px" />
-    <img src="./assets/app_images/MyAccount.jpg" alt="My Account Screen" width="600px" />
-    <img src="./assets/app_images/InitialScreen.jpg" alt="Initial Screen" width="600px" />
-    <img src="./assets/app_images/Login.jpg" alt="Login Screen" width="600px" />
-    <img src="./assets/app_images/SignUp.jpg" alt="Sign Up Screen" width="600px" />
+    <img src="./assets/app_images/Home.jpg" alt="Home Screen" width="200px" />
+    <img src="./assets/app_images/Maps.jpg" alt="Map Screen" width="200px" />
+    <img src="./assets/app_images/Order.jpg" alt="Order Screen" width="200px" />
+    <img src="./assets/app_images/MyAccount.jpg" alt="My Account Screen" width="200px" />
+    <img src="./assets/app_images/InitialScreen.jpg" alt="Initial Screen" width="200px" />
+    <img src="./assets/app_images/Login.jpg" alt="Login Screen" width="200px" />
+    <img src="./assets/app_images/SignUp.jpg" alt="Sign Up Screen" width="200px" />
 </div>
