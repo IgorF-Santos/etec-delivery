@@ -2,7 +2,7 @@
 
 * Projeto em React Native criado para ensino na <a href="https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=200">Etec Profª Ermelinda Giannini Teixeira</a>
 * A ideia da criação do projeto é exemplificar o uso de mapas e de diferentes tipos navegação entre telas com React Native.
-* Para a contrução do projeto foi utilizado o <a href="https://docs.expo.dev/workflow/expo-cli/">Expo CLI</a>.
+* Para a construção do projeto foi utilizado o <a href="https://docs.expo.dev/workflow/expo-cli/">Expo CLI</a>.
    * Para executar o projeto, execute antes os seguintes comandos:
     * Para instalar o expo-cli globalmente na versão 6.0.1
     > npm install -g expo-cl i@6.0.1
